@@ -1,8 +1,0 @@
-{% extends "layout.html" %} 
-
- 
- {% block content %} 
- <div class="container"> 
-     <div class="row"> 
-     <h3>This is what I want to get out of the course:<h3>
-     
